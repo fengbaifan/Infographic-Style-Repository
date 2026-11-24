@@ -7,7 +7,7 @@
 ### 分类说明
 
 - 这里的 12 项是项目的研究目录，不是被学术界统一承认的“12 条固定定律”。
-- 每条原则有独立的定义、案例索引、设计分析、实践经验文件；现阶段案例索引不附未核验案例。
+- 01-规则库采用扁平结构：每条原则只保留一份 Markdown 文档，内部包含定义与机制、案例索引、设计分析、实践经验；不再建立规则子文件夹。现阶段案例索引不附未核验案例。
 - 真实案例集中归档在 `02-案例库`，各规则仅按相应的证据关联，不复制一图多份。
 - 与仓库 01 五类数据逻辑、02 表现形式、03 ISOTYPE 专项、04 统计图形互补，不替代既有分类。
 - 2026-11-24 目录调整：ISOTYPE 独立为 03，统计图形顺延为 04，Gestalt 顺延为 05，主题设计流程顺延为 06；资料及八阶段流程不变。
@@ -18,20 +18,20 @@
 
 ### 12项原则与研究入口
 
-| 原则 | 定义与机制 | 案例 | 设计分析 | 实践经验 |
-|---|---|---|---|---|
-| G01-接近律-Proximity | [定义](./01-规则库/G01-接近律-Proximity/01-定义与机制.md) | [案例](./01-规则库/G01-接近律-Proximity/02-案例索引.md) | [分析](./01-规则库/G01-接近律-Proximity/03-设计分析.md) | [实践](./01-规则库/G01-接近律-Proximity/04-实践经验.md) |
-| G02-相似律-Similarity | [定义](./01-规则库/G02-相似律-Similarity/01-定义与机制.md) | [案例](./01-规则库/G02-相似律-Similarity/02-案例索引.md) | [分析](./01-规则库/G02-相似律-Similarity/03-设计分析.md) | [实践](./01-规则库/G02-相似律-Similarity/04-实践经验.md) |
-| G03-良好连续律-Good-Continuation | [定义](./01-规则库/G03-良好连续律-Good-Continuation/01-定义与机制.md) | [案例](./01-规则库/G03-良好连续律-Good-Continuation/02-案例索引.md) | [分析](./01-规则库/G03-良好连续律-Good-Continuation/03-设计分析.md) | [实践](./01-规则库/G03-良好连续律-Good-Continuation/04-实践经验.md) |
-| G04-共同命运律-Common-Fate | [定义](./01-规则库/G04-共同命运律-Common-Fate/01-定义与机制.md) | [案例](./01-规则库/G04-共同命运律-Common-Fate/02-案例索引.md) | [分析](./01-规则库/G04-共同命运律-Common-Fate/03-设计分析.md) | [实践](./01-规则库/G04-共同命运律-Common-Fate/04-实践经验.md) |
-| G05-共同区域律-Common-Region | [定义](./01-规则库/G05-共同区域律-Common-Region/01-定义与机制.md) | [案例](./01-规则库/G05-共同区域律-Common-Region/02-案例索引.md) | [分析](./01-规则库/G05-共同区域律-Common-Region/03-设计分析.md) | [实践](./01-规则库/G05-共同区域律-Common-Region/04-实践经验.md) |
-| G06-连接律-Connectedness | [定义](./01-规则库/G06-连接律-Connectedness/01-定义与机制.md) | [案例](./01-规则库/G06-连接律-Connectedness/02-案例索引.md) | [分析](./01-规则库/G06-连接律-Connectedness/03-设计分析.md) | [实践](./01-规则库/G06-连接律-Connectedness/04-实践经验.md) |
-| G07-同步律-Synchrony | [定义](./01-规则库/G07-同步律-Synchrony/01-定义与机制.md) | [案例](./01-规则库/G07-同步律-Synchrony/02-案例索引.md) | [分析](./01-规则库/G07-同步律-Synchrony/03-设计分析.md) | [实践](./01-规则库/G07-同步律-Synchrony/04-实践经验.md) |
-| G08-闭合律-Closure | [定义](./01-规则库/G08-闭合律-Closure/01-定义与机制.md) | [案例](./01-规则库/G08-闭合律-Closure/02-案例索引.md) | [分析](./01-规则库/G08-闭合律-Closure/03-设计分析.md) | [实践](./01-规则库/G08-闭合律-Closure/04-实践经验.md) |
-| G09-对称律-Symmetry | [定义](./01-规则库/G09-对称律-Symmetry/01-定义与机制.md) | [案例](./01-规则库/G09-对称律-Symmetry/02-案例索引.md) | [分析](./01-规则库/G09-对称律-Symmetry/03-设计分析.md) | [实践](./01-规则库/G09-对称律-Symmetry/04-实践经验.md) |
-| G10-平行律-Parallelism | [定义](./01-规则库/G10-平行律-Parallelism/01-定义与机制.md) | [案例](./01-规则库/G10-平行律-Parallelism/02-案例索引.md) | [分析](./01-规则库/G10-平行律-Parallelism/03-设计分析.md) | [实践](./01-规则库/G10-平行律-Parallelism/04-实践经验.md) |
-| G11-图底关系-Figure–Ground-Organization | [定义](./01-规则库/G11-图底关系-Figure–Ground-Organization/01-定义与机制.md) | [案例](./01-规则库/G11-图底关系-Figure–Ground-Organization/02-案例索引.md) | [分析](./01-规则库/G11-图底关系-Figure–Ground-Organization/03-设计分析.md) | [实践](./01-规则库/G11-图底关系-Figure–Ground-Organization/04-实践经验.md) |
-| G12-良好形态原则-Prägnanz | [定义](./01-规则库/G12-良好形态原则-Prägnanz/01-定义与机制.md) | [案例](./01-规则库/G12-良好形态原则-Prägnanz/02-案例索引.md) | [分析](./01-规则库/G12-良好形态原则-Prägnanz/03-设计分析.md) | [实践](./01-规则库/G12-良好形态原则-Prägnanz/04-实践经验.md) |
+| 原则 | 规则文档 |
+|---|---|
+| G01-接近律-Proximity | [查看完整文档](./01-规则库/G01-接近律-Proximity.md) |
+| G02-相似律-Similarity | [查看完整文档](./01-规则库/G02-相似律-Similarity.md) |
+| G03-良好连续律-Good-Continuation | [查看完整文档](./01-规则库/G03-良好连续律-Good-Continuation.md) |
+| G04-共同命运律-Common-Fate | [查看完整文档](./01-规则库/G04-共同命运律-Common-Fate.md) |
+| G05-共同区域律-Common-Region | [查看完整文档](./01-规则库/G05-共同区域律-Common-Region.md) |
+| G06-连接律-Connectedness | [查看完整文档](./01-规则库/G06-连接律-Connectedness.md) |
+| G07-同步律-Synchrony | [查看完整文档](./01-规则库/G07-同步律-Synchrony.md) |
+| G08-闭合律-Closure | [查看完整文档](./01-规则库/G08-闭合律-Closure.md) |
+| G09-对称律-Symmetry | [查看完整文档](./01-规则库/G09-对称律-Symmetry.md) |
+| G10-平行律-Parallelism | [查看完整文档](./01-规则库/G10-平行律-Parallelism.md) |
+| G11-图底关系-Figure–Ground-Organization | [查看完整文档](./01-规则库/G11-图底关系-Figure–Ground-Organization.md) |
+| G12-良好形态原则-Prägnanz | [查看完整文档](./01-规则库/G12-良好形态原则-Prägnanz.md) |
 
 ### 资料与试验
 
