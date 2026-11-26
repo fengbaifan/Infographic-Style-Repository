@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "style_id": "SC-XXX-01",
+    "style_name_zh": "",
+    "style_name_en": "",
+    "narrative_category": "A_权威传统 | B_当代克制奢华 | C_科技数字原生 | D_活力大众亲和 | E_人文戏剧张力",
+    "created_at": "2026-11-26",
+    "recommended_backends": ["Nano Banana", "GPT Image 2.0", "SeedDream"],
+    "excluded_source_elements": []
+  },
+  "style_dna_locked": {
+    "A_identity_stance": {
+      "medium_archetype_zh": "",
+      "medium_archetype_en": "",
+      "narrative_stance_zh": "这个风格相信：",
+      "narrative_stance_en": "This style believes in: ",
+      "signature_anomaly_zh": "",
+      "signature_anomaly_en": ""
+    },
+    "B_form_space_light": {
+      "color_grammar_zh": "",
+      "color_grammar_en": "",
+      "lighting_logic_zh": "",
+      "lighting_logic_en": "",
+      "composition_rule_zh": "",
+      "composition_rule_en": "",
+      "scale_ratio_zh": "",
+      "scale_ratio_en": ""
+    },
+    "C_rendering_craft": {
+      "shaping_stroke_zh": "",
+      "shaping_stroke_en": "",
+      "edge_hierarchy_zh": "",
+      "edge_hierarchy_en": "",
+      "finish_allocation_zh": "",
+      "finish_allocation_en": "",
+      "material_texture_zh": "",
+      "material_texture_en": ""
+    },
+    "E_visual_control": {
+      "density_rhythm_zh": "",
+      "density_rhythm_en": "",
+      "anchor_mechanism_zh": "",
+      "anchor_mechanism_en": "",
+      "tension_grammar_zh": "",
+      "tension_grammar_en": ""
+    },
+    "consistency_5_anchors_zh": [
+      "1. ",
+      "2. ",
+      "3. ",
+      "4. ",
+      "5. "
+    ],
+    "consistency_5_anchors_en": [
+      "1. ",
+      "2. ",
+      "3. ",
+      "4. ",
+      "5. "
+    ],
+    "negative_style_guards_zh": [],
+    "negative_style_guards_en": []
+  },
+  "reusable_master_prompts": {
+    "v3_zh_concise_slot_template": "【主题槽：{{核心主体}}，{{状态动作}}，置于{{简明环境}}，焦点落在{{点睛细节}}】，",
+    "v4a_zh_natural_p1_locked": "",
+    "v4a_zh_natural_p2_slot": "【画面核心呈现{{核心主体}}，{{状态与材质转译}}，置身于{{环境场域}}之中……】",
+    "v4a_zh_natural_p3_locked": "",
+    "v4b_en_natural_p1_locked": "",
+    "v4b_en_natural_p2_slot": "[[At the focal heart rests {{SUBJECT}}, {{translated state & material}}, nestled within {{ENVIRONMENT}}...]]",
+    "v4b_en_natural_p3_locked": ""
+  },
+  "iteration_and_drift_notes": {
+    "common_drift_risks": [],
+    "verified_fixes": []
+  }
+}
